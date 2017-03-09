@@ -13,6 +13,14 @@
 <key>url</key>
 <string>http://www.newpk10.com/app/NEWPK10.ipa</string>
 </dict>
+<dict>
+<key>kind</key>
+<string>display-image</string>
+<key>needs-shine</key>
+<true/>
+<key>url</key>
+<string>http://www.newpk10.com/app/icon.png</string>
+</dict>
 </array>
 <key>metadata</key>
 <dict>
